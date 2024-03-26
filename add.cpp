@@ -7,4 +7,5 @@ int main()
     cin>> n1 >> n2;
     result = n1 + n2;
     cout<<"Result = "<< result;
+    return 0;
 }
